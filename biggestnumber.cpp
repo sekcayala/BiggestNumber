@@ -23,8 +23,7 @@ int main()
   {
   biggest = number2;
   }
-  cout<<"Of those two numbers, the biggest is: \n";
-  std::cout <<biggest;
+  cout<<"Of those two numbers, the biggest is: " <<biggest<<" \n";
   cout<<endl<<"Thank you for playing.\n";
 
   return 0;
